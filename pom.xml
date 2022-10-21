@@ -577,7 +577,7 @@
                             </platforms>
                         </from>
                         <to>
-                            <image>orielb97/cicdejemplo:latest</image>
+                            <image>orielb97/umpipe:latest</image>
                             <tags>
                                 <tag>${project.version}</tag>
                                 <tag>latest</tag>

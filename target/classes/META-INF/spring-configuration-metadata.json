@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "edu.um.cicd.config.ApplicationProperties",
+      "sourceType": "edu.um.cicd.config.ApplicationProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
